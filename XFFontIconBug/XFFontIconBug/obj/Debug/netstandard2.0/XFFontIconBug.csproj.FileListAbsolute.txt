@@ -1,0 +1,13 @@
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\bin\Debug\netstandard2.0\XFFontIconBug.deps.json
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\bin\Debug\netstandard2.0\XFFontIconBug.dll
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\bin\Debug\netstandard2.0\ref\XFFontIconBug.dll
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\bin\Debug\netstandard2.0\XFFontIconBug.pdb
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\obj\Debug\netstandard2.0\XFFontIconBug.csprojAssemblyReference.cache
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\obj\Debug\netstandard2.0\XFFontIconBug.AssemblyInfoInputs.cache
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\obj\Debug\netstandard2.0\XFFontIconBug.AssemblyInfo.cs
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\obj\Debug\netstandard2.0\XFFontIconBug.dll
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\obj\Debug\netstandard2.0\ref\XFFontIconBug.dll
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug\obj\Debug\netstandard2.0\XFFontIconBug.pdb

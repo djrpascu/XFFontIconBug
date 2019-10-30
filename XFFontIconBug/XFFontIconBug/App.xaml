@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="XFFontIconBug.App">
+    <Application.Resources>
+        <ResourceDictionary>
+
+            <Color x:Key="PrimaryColor">#330072</Color>
+            <Color x:Key="PrimaryDarkColor">#4C4452</Color>
+            <Color x:Key="AccentColor">#00836C</Color>
+            <Color x:Key="WindowBackgroundColor">#F5F5F5</Color>
+            <Color x:Key="TransparentWindowBackgroundColor">#98F5F5F5</Color>
+            <Color x:Key="LoadingBackgroundColor">#80000000</Color>
+            <Color x:Key="LoadingTextColor">White</Color>
+
+            <OnPlatform x:Key="MaterialFontFamily" x:TypeArguments="x:String">
+                <On Platform="UWP" Value="Assets/Fonts/materialdesignicons-webfont.ttf#Material Design Icons" />
+            </OnPlatform>
+
+            <!--MATERIAL ICON CODES-->
+            <x:String x:Key="PencilOutline">&#xfc92;</x:String>
+            <x:String x:Key="PlusOutline">&#xf704;</x:String>
+            <x:String x:Key="FileDocumentOutline">&#xf9ed;</x:String>
+            <x:String x:Key="CrosshairsGps">&#xf1a4;</x:String>
+            <x:String x:Key="HomeOutline">&#xf6a0;</x:String>
+            <x:String x:Key="MagnifyPlusOutline">&#xf6ec;</x:String>
+            <x:String x:Key="MagnifyMinusOutline">&#xf6eb;</x:String>
+
+            <Style x:Key="MapImageButtonStyle" TargetType="ImageButton">
+                <Setter Property="Margin" Value="10, 10, 0, 0" />
+                <Setter Property="Padding" Value="8" />
+                <Setter Property="CornerRadius" Value="33" />
+                <Setter Property="HeightRequest" Value="70" />
+                <Setter Property="WidthRequest" Value="70" />
+                <Setter Property="BackgroundColor" Value="{StaticResource TransparentWindowBackgroundColor}" />
+                <Setter Property="HorizontalOptions" Value="Center" />
+            </Style>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

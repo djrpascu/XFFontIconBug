@@ -1,0 +1,1 @@
+C:\Users\dpascual\source\repos\XFFontIconBug\XFFontIconBug\XFFontIconBug.UWP\XFFontIconBug.UWP.csproj;x86
